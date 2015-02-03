@@ -1,0 +1,22 @@
+Aasys Motive Connector::
+Requirements::
+	Matlab
+	Java(To get IP address)
+Contents:::
+	NatNetMLx86.dll
+	NatNetMLx64.dll
+	:::NatNet SDK 2.7 libraries
+Matlab Files:::
+	OpenMocap.m
+	GetMocap.m
+	CloseMocap.m
+	cprintf.m
+Instructions::
+	Open and setup Motive
+	Enable data streaming
+	Add directory to path in MATLAB [addpath Aasys_Motive_Connector]
+	Run OpenMocap [supply HostIP,ClientIP,NatNetPath if required]
+	Use GetMocap to get Data
+	Use CloseMocap to end Communication
+	
+	
