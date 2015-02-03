@@ -1,2 +1,2 @@
 # AasysMotiveConnector
-Stream data to Optitrack Motive Tracking data to  MATLAB using NatNET
+Stream data from Optitrack Motive Tracking data to  MATLAB using NatNET
